@@ -21,7 +21,7 @@ The hat smoothly follows the player's position and can be customized with colors
 ### Show In First Person
 Allows the hat to render while using **first person view**.
 
--
+--
 
 ### Bottom Color
 Controls the **color of the hat's edge**.
